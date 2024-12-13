@@ -15,7 +15,7 @@ const DashboardPage = () => {
         <CardBill />
         <CardTransaction />
         <Card variant="md:col-span-2" title="Statistics" />
-        {/* <CardExpenseBreakdown /> */}
+        <CardExpenseBreakdown />
       </div>
       {/* bottom content end*/}
     </MainLayout>
